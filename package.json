@@ -1,0 +1,15 @@
+{
+  "name": "bulkemailbot",
+  "version": "1.0.0",
+  "description": "a simple bulk email sender",
+  "main": "lib/bulkemailbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Telzrow",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^0.4.3",
+    "nodemailer": "^1.8.0"
+  }
+}
