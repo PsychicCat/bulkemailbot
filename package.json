@@ -2,9 +2,13 @@
   "name": "bulkemailbot",
   "version": "1.0.0",
   "description": "a simple bulk email sender",
-  "main": "lib/bulkemailbot.js",
+  "main": "lib/bulkemailbot",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsychicCat/bulkemailbot.git"
   },
   "author": "Brendan Telzrow",
   "license": "ISC",
