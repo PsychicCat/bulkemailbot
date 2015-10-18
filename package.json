@@ -1,6 +1,6 @@
 {
   "name": "bulkemailbot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a simple bulk email sender",
   "main": "lib/bulkemailbot",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "author": "Brendan Telzrow",
   "license": "ISC",
+  "homepage": "https://github.com/PsychicCat/bulkemailbot#readme",
   "dependencies": {
     "csvtojson": "^0.4.3",
     "nodemailer": "^1.8.0"
